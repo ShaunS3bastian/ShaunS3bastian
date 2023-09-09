@@ -13,4 +13,4 @@
 
 Join me on this extraordinary adventure as we redefine what's possible with AI. Let's strive for innovation, collaboration, and impact, transforming the world one breakthrough at a time. Together, we'll shape a future where technology amplifies human potential and inspires generations to come.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ShaunS3bastian&theme=highcontrast)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ShaunS3bastian"/></a>
