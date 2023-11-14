@@ -13,5 +13,4 @@
 
 Join me on this extraordinary adventure as we redefine what's possible with AI. Let's strive for innovation, collaboration, and impact, transforming the world one breakthrough at a time. Together, we'll shape a future where technology amplifies human potential and inspires generations to come.
 
-![](https://raw.githubusercontent.com/ShaunS3bastian/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ShaunS3bastian/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaunS3bastian&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
